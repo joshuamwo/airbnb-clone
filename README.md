@@ -1,7 +1,29 @@
-This project is hosted @ air-bnb-clone-4b0bd.web.app 
-Click link to preview.
+##Hosted by firebase. 
+air-bnb-clone-4b0bd.web.app
+Use url to preview.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I got this idea for my mentor. He said cloning when favourite website could be a way to display your skin.
+
+Yes I'm going to do it.  The first website I'm going to rebuild is one of my favorites the airbnb website. I like the design of it and I also have a passion for the housing market.
+
+This will be a documentation of the journey. 
+
+THE ACTUAL DESIGN.
+
+I'm going to try to recreate the design isn't figma because it's my favourite tool for designing things for the web. Of the whole recreation getting the colours right of actually the toughest part of the design. I made use of some Chrome extensions one of them being  "what the font" to get the fonts that were used in the actual airbnb website. I sourced the icons from font-awesome. They have a really great collection and I am planning to use their icons in my coming next projects. 
+
+ON TO THE EASY STUFF.
+
+I said easy because as a developer, design is usually the hardest part of it. From the actual code, I'm going to be using a framework of JavaScript - React JS ever since I came across react it has been my go-to for my web projects.
+
+A lot of people say if you use frameworks you're not a real developer and do you know what I say to them? 
+MAMBO NI MINGI, MASAA NI CHACHE. Get with the times bro. 
+
+My favourite quote of all time is: 
+"Out of extreme complexities emerges extreme simplicities."
+
+
+
 
 ## Available Scripts
 
